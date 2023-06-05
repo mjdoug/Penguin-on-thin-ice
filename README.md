@@ -1,1 +1,2 @@
 # Penguin-on-thin-ice
+Game is still being finished. Currently have board made and you are able to interact with it. You can remove different circles around the penguin which is shown as a 'P'. In order for it to work you must use lowercase letters a-k. The point of the game is to hit different blocks without making the penguin falling. IF a certain loop of blocks around penguin are not touching then the last person to hit a block loses.
